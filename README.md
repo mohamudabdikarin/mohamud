@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamudabdikarin&label=Profile%20views&color=0e75b6&style=flat" alt="mohamudabdikarin" /> </p>
 
-- 🔭 I’m currently working on **Quiz App**
+- 
 
 - 🌱 I’m currently learning **ReactJs,Advanced Java at Jamhuriya University**
 
