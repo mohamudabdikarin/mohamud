@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamud</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate web developer</h3>
 <p><img align="center" src="https://github.com/mohamudabdikarin.png" alt="mohamudabdikarin" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamudabdikarin&label=Profile%20views&color=0e75b6&style=flat" alt="mohamudabdikarin" /> </p>
 
 - 
 
-- 🌱 I’m currently learning **ReactJs,Advanced Java at Jamhuriya University**
 
 - 💬 Ask me about **Html,Css and Javascript, and C#**
 
-- 📫 How to reach me **24maxamuud@gmail.com**
+- 📫 How to reach me **maxamuud632@gmail.com**
 
 - ⚡ Fun fact **i think I am loyal**
 
