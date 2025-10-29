@@ -7,7 +7,7 @@
 - 
 
 
-- 💬 Ask me about **Html,Css and Javascript, and C#**
+- 💬 Ask me about **Html,Css and Javascript, Reactjs,tailwindcss**
 
 - 📫 How to reach me **maxamuud632@gmail.com**
 
